@@ -1,0 +1,12 @@
+packages:
+  - "."
+
+allowBuilds:
+  '@firebase/util': true
+  esbuild: true
+  protobufjs: true
+  sharp: true
+
+minimumReleaseAgeExclude:
+  - '@astrojs/react@7.1.5'
+  - astro@7.4.8

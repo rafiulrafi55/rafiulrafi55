@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800">
+  <rect width="1200" height="800" fill="#302116"/>
+  <circle cx="1020" cy="140" r="270" fill="#f59e0b" opacity=".3"/>
+  <circle cx="180" cy="700" r="290" fill="#ea580c" opacity=".32"/>
+  <circle cx="900" cy="390" r="150" fill="#422b18" stroke="#fbbf24" stroke-width="8"/>
+  <path d="M835 350c30-55 100-55 130 0 25 46-20 100-65 125-45-25-90-79-65-125z" fill="#fbbf24"/>
+  <path d="M900 270v-45M850 290l-30-30M950 290l30-30" stroke="#fff1c2" stroke-width="10" stroke-linecap="round"/>
+  <text x="90" y="370" fill="#dfdfdf" font-family="Arial, sans-serif" font-size="78" font-weight="700">FoodWorld</text>
+  <text x="94" y="440" fill="#fbbf24" font-family="Arial, sans-serif" font-size="36">Android project</text>
+</svg>

@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800">
+  <rect width="1200" height="800" fill="#2b1724"/>
+  <circle cx="1010" cy="650" r="330" fill="#e879a8" opacity=".24"/>
+  <circle cx="170" cy="90" r="220" fill="#b84d78" opacity=".38"/>
+  <path d="M850 250c-55-70-170-30-170 70 0 95 170 190 170 190s170-95 170-190c0-100-115-140-170-70z" fill="#f08bb4" opacity=".8"/>
+  <path d="M850 300c-30-38-92-18-92 35 0 48 92 100 92 100s92-52 92-100c0-53-62-73-92-35z" fill="#2b1724"/>
+  <text x="90" y="390" fill="#dfdfdf" font-family="Arial, sans-serif" font-size="84" font-weight="700">Velora</text>
+  <text x="94" y="460" fill="#f08bb4" font-family="Arial, sans-serif" font-size="34">Wedding guest management</text>
+</svg>
